@@ -35,4 +35,4 @@ Apache Spark · CKKS Homomorphic Encryption · Scala · Distributed Systems
 
 ---
 
-Related M.Eng. research: [DeepfakeAudioVisualTemporalDetector](https://github.com/theraihanrakibb/DeepfakeAudioVisualTemporalDetector).
+Related M.Eng. research: [M.Eng. Thesis](https://github.com/theraihanrakibb/M.Eng-Thesis-Multimodal-Deepfake-Audio-Visual-Temporal-Framework).
