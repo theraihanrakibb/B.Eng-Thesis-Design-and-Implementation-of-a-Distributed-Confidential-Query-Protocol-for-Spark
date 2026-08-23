@@ -1,6 +1,6 @@
 # Design and Implementation of a Distributed Confidential Query Protocol for Spark
 
-**B.Eng. Thesis** — School of Computer Science and Technology, Northwestern Polytechnical University (NWPU), 2024.
+**B.Eng. Thesis** — School of Computer Science and Technology, Northwestern Polytechnical University (985/211), 2024 · GPA 85/100 (Top 1%).
 
 > **Abstract:** This thesis designs and implements a distributed confidential query protocol for Apache Spark, combining fully homomorphic encryption (CKKS) with the Spark computing engine so that sensitive data can be queried and processed without being decrypted — preserving **95% privacy protection** while keeping computation practical.
 
