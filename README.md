@@ -31,7 +31,7 @@ Apache Spark · CKKS Homomorphic Encryption · Scala · Distributed Systems
 **MD RAKIBUL ISLAM RAIHAN** — B.Eng. Computer Science, NWPU
 - Email: raihanrakib.143@gmail.com
 - GitHub: [theraihanrakibb](https://github.com/theraihanrakibb)
-- Portfolio: [theraihanrakibb.github.io/Online-Portfolio](https://theraihanrakibb.github.io/Online-Portfolio/)
+- Portfolio: [theraihanrakibb.github.io](https://theraihanrakibb.github.io/)
 
 ---
 
